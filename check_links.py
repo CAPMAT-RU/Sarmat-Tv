@@ -26,12 +26,12 @@ jobs:
       - name: Run script
         run: python check_links.py
 
-      - name: Commit changes
+      - name: Commit and push changes if any
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          if ! git diff --cached --quiet; then
+          if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Update links"
             git push
           else
