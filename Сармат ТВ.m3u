@@ -1990,8 +1990,8 @@ https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 #EXTINF:-1 tvg-id="cctv-ru" tvg-logo="http://1lot.tv/ch/9360.png" group-title="27.ПОЗНАВАТЕЛЬНЫЕ 🔎",CGTN Русскийᴴᴰ
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Discovery HD" group-title="27.ПОЗНАВАТЕЛЬНЫЕ 🔎",Discovery HD
-http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
+#EXTINF:-1 tvg-id="Discovery HD" group-title="27.ПОЗНАВАТЕЛЬНЫЕ 🔎", Discovery Channel HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="27.ПОЗНАВАТЕЛЬНЫЕ 🔎",Investigation Discovery
 https://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
