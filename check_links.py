@@ -6,6 +6,9 @@ schedule:
 - cron: '0 0 * * *'
 workflow_dispatch:
 
+permissions:
+contents: write
+
 jobs:
 build:
 runs-on: ubuntu-latest
@@ -26,8 +29,8 @@ run: python check_links.py
 
 - name: Commit changes
 run: |
-git config --global user.name 'GitHub Action'
-git config --global user.email 'action@github.com'
+git config --global user.name 'github-actions[bot]'
+git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 git add .
 git commit -m "Update links" || echo "No changes to commit"
 git push
