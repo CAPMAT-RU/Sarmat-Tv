@@ -1376,9 +1376,6 @@ https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/11184.png" group-title="17.СЕРИАЛЫ 2 🇷🇺",Новый Русскийᴴᴰ
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://1lot.tv/ch/11184.png" group-title="17.СЕРИАЛЫ 2 🇷🇺",Новый Русскийᴴᴰ
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1_output_0.m3u8?session=U3YFrmmaaXDngd96fHTti7
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" group-title="17.СЕРИАЛЫ 2 🇷🇺",НТВ Балаболᴴᴰ
@@ -1492,7 +1489,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 #EXTINF:-1 tvg-id="chestny-detektiv" tvg-logo="https://cdn-st2.smotrim.ru/vh/pictures/xw/456/954/5.png" group-title="17.СЕРИАЛЫ 2 🇷🇺",Смотрим Честный детективᴴᴰ
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg" group-title="17.СЕРИАЛЫ 2 ??🇺",НТВ Скорая Помощьᴴᴰ
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg" group-title="17.СЕРИАЛЫ 2 🇷🇺",НТВ Скорая Помощьᴴᴰ
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="domkino" group-title="18.𝕂иℍ𝕠 🇷🇺",Дом Кино
@@ -3151,7 +3148,7 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="44.𝕄𝕦𝕤𝕚𝕔 🇪🇺",Apanines TV SD
 https://live20.bozztv.com/akamaissh101/ssh101/apaninestv2025/chunks.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="44.𝕄𝕦𝕤𝕚𝕔 🇪🇺",ATOMIC
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="44.𝕄𝕦𝕤??𝕔 🇪🇺",ATOMIC
 https://atomic.streamnet.ro/atomictv.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="44.𝕄𝕦𝕤𝕚𝕔 🇪🇺",ATOMIC ACADEMY
@@ -3403,7 +3400,7 @@ https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.
 #EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="44.𝕄𝕦𝕤𝕚𝕔 🇪🇺",Radio Diffusione Europea
 https://rst2.saiuzwebnetwork.it:8081/prosol/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.ibb.co/F4ZHkcF3/image-2025-07-09-T152629-923.png" group-title="44.𝕄𝕦𝕤𝕚𝕔 🇪🇺",Radio GOLD SD
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.ibb.co/F4ZHkcF3/image-2025-07-09-T152629-923.png" group-title="44.𝕄𝕦𝕤𝕚𝕔 🇪??",Radio GOLD SD
 https://cdn119-it.azotosolutions.com:8443/cdnedge5/smil:live5.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="44.𝕄𝕦𝕤𝕚𝕔 🇪🇺",RADIO IMMAGINE SD
