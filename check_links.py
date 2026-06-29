@@ -1,24 +1,34 @@
-Enter ```python
-import requests
+```yaml
+name: IPTV Checker
 
-def check_m3u(input_file, output_file):
-with open(input_file, 'r', encoding='utf-8') as f:
-lines = f.readlines()
+on:
+schedule:
+- cron: '0 0 * * *'
+workflow_dispatch:
 
-with open(output_file, 'w', encoding='utf-8') as f:
-for i in range(len(lines)):
-line = lines[i].strip()
-# Проверяем, является ли строка ссылкой на поток
-if line.startswith("http"):
-try:
-# Делаем быстрый запрос (только заголовки, чтобы не качать весь поток)
-response = requests.head(line, timeout=5, allow_redirects=True)
-if response.status_code == 200:
-f.write(line + "\n") # Ссылка рабочая, пишем в файл
-except:
-print(f"Канал не работает: {line}")
-else:
-f.write(line + "\n") # Пишем название канала (#EXTINF...)
+jobs:
+build:
+runs-on: ubuntu-latest
+steps:
+- name: Checkout code
+uses: actions/checkout@v3
 
-check_m3u('Сармат ТВ.m3u', 'Сармат ТВ_new.m3u')
+- name: Set up Python
+uses: actions/setup-python@v4
+with:
+python-version: '3.9'
+
+- name: Install dependencies
+run: pip install requests
+
+- name: Run script
+run: python check_links.py
+
+- name: Commit changes
+run: |
+git config --global user.name 'GitHub Action'
+git config --global user.email 'action@github.com'
+git add .
+git commit -m "Update links" || echo "No changes to commit"
+git push
 ```
