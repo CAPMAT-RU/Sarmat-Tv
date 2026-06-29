@@ -1,0 +1,26 @@
+yaml
+name: Update Playlist
+on:
+schedule:
+- cron: '0 0 * * *'
+workflow_dispatch:
+
+jobs:
+update:
+runs-on: ubuntu-latest
+permissions:
+contents: write
+steps:
+- uses: actions/checkout@v3
+- name: Fetch and Filter
+run: |
+curl -L https://iptv-org.github.io/iptv/index.m3u > all.m3u
+# Берем заголовок, строки с RU и ссылки на потоки
+grep -E "#EXTM3U|group-title=\"Russia\"|http" all.m3u > my_channels.m3u
+- name: Commit changes
+run: |
+git config --global user.name 'bot'
+git config --global user.email 'bot@email.com'
+git add my_channels.m3u
+git commit -m "Update playlist"
+git push
