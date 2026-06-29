@@ -1910,6 +1910,12 @@ https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
 https://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="travel-adventure" group-title="26.ПУТЕШЕСТВИЯ 🌎",Travel+Adventure
+http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="travel-adventure" group-title="26.ПУТЕШЕСТВИЯ 🌎",Travel+Adventure
+http://77.232.131.211/TravelAdventureHD/index.m3u8
+
+#EXTINF:-1 tvg-id="travel-adventure" group-title="26.ПУТЕШЕСТВИЯ 🌎",Travel+Adventure
 https://77.245.98.18:8000/play/Travel_and_Adventure
 
 #EXTINF:-1 tvg-id="travel-adventure" group-title="26.ПУТЕШЕСТВИЯ 🌎",Travel+Adventureᴴᴰ
