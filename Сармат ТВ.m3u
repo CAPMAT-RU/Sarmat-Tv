@@ -2002,6 +2002,9 @@ http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="27.ПОЗНАВАТЕЛЬНЫЕ 🔎",Investigation Discovery
 https://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
 
+#EXTINF:-1 tvg-id="CuriosityStream.ru@SD" group-title="27.ПОЗНАВАТЕЛЬНЫЕ 🔎"CuriosityStream (1080p)
+https://adpnetworkhd-cmd.github.io/iptv/CuriosityStream.m3u8
+
 #EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://iptvx.one/picons/nano-hd.png" group-title="27.ПОЗНАВАТЕЛЬНЫЕ 🔎",NANOᴴᴰ
 https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=JvmA6ABMzxZ5pFsbhOeT7A&e=2069068450&scheme=https
 
@@ -3277,7 +3280,7 @@ https://iptv.itv.uz/hls/live/t/iR8iDnzqJIQrEetuXnP3iA/e/1799038327/4001/index.m3
 #EXTINF:-1 group-title="44.𝕄𝕦𝕤𝕚𝕔 🇪🇺",JUGOTON TV SD
 https://tinyurl.com/5TvZaTak/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rG2bjYwh/image-71.png" group-title="44.𝕄𝕦𝕤𝕚𝕔 🇪🇺",Kalac TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rG2bjYwh/image-71.png" group-title="44.𝕄𝕦𝕤𝕚𝕔 ??🇺",Kalac TV HD
 https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8
 
 #EXTINF:-1 group-title="44.𝕄𝕦𝕤𝕚𝕔 🇪🇺",KalacTVᴴᴰ
