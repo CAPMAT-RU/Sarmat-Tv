@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-id="DONATE" tvg-logo="💰" group-title="❗ВАЖНО❗",❤️ ПОДДЕРЖИ АВТОРА. Телеграм: https://t.me/iptv_Sarmat
 https://stream-example.com/test.m3u8
 
+#EXTINF:-1 tvg-id="DONATE" tvg-logo="💰" group-title="🔄 ОБНОВЛЕНИЕ 🔄",🕓 29 июня. 21:20
+https://stream-example.com/test.m3u8
+
 #EXTINF:-1 tvg-id="4kanal-piatnica" tvg-logo="https://iptvx.one/picons/4kanal-piatnica.png" group-title="1.ЕКБ",4 КАНАЛ FD
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 
@@ -1307,7 +1310,7 @@ https://fs.uplink.kz/rodnoe_kino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 https://s05.watcher.uz/45/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="15.СЕРИАЛЫ 📺",.black
-https://adpnetworkhd-cmd.github.io/iptv/Black.m3u8
+http://158.101.222.193:88/georgia_play.php?id=black
 
 #EXTINF:-1 tvg-id="sony-scifi" group-title="15.СЕРИАЛЫ 📺",.sci-fi
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
@@ -1991,7 +1994,7 @@ https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery HD" group-title="27.ПОЗНАВАТЕЛЬНЫЕ 🔎",Discovery HD
-https://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="27.ПОЗНАВАТЕЛЬНЫЕ 🔎",Investigation Discovery
 https://mfe02.cliptv.az/dash/Investigation_Discovery_SD12er34.ism/playlist.mpd
@@ -4915,14 +4918,11 @@ https://tinyurl.com/TvZaTak05/1037/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tochka-otryva" group-title="𝕋𝕧ℤ𝕒𝕋𝕒𝕜 📼",Точка Отрыва
 https://tinyurl.com/TvZaTak05/1031/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="detsky" group-title="𝕋𝕧ℤ𝕒𝕋𝕒𝕜 📼",Уникум
+#EXTINF:-1 tvg-idОБНОВЛЕНИЕ group-title="𝕋𝕧ℤ𝕒𝕋𝕒𝕜 📼",Уникум
 https://tinyurl.com/TvZaTak05/1033/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="usadba" group-title="𝕋𝕧ℤ𝕒𝕋𝕒𝕜 📼",Усадьба
 https://tinyurl.com/TvZaTak05/1427/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="ryzhy" group-title="𝕋𝕧ℤ𝕒𝕋𝕒𝕜 ??",Рыжий
-https://tinyurl.com/TvZaTak05/1407/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="365-dnej" group-title="Turon Media😎",365 Дней HD
 https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
