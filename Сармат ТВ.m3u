@@ -2221,19 +2221,19 @@ https://rpn3.bozztv.com/dvrfl07/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="2na2" group-title="30.ДЕТСКИЕ 👶",2x2
 https://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
 
-#EXTINF:-1  group-title="30.ДЕТСКИЕ 👶"  tvg-id="nickelodeon-ru" ,Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="30.ДЕТСКИЕ 👶",Nickelodeon
 http://dmitry-tv.ddns.net/hls/CH_NICKELODEON.m3u8
 
-#EXTINF:-1  group-title="30.ДЕТСКИЕ 👶"  tvg-id="nickelodeon-ru" ,Nickelodeon HD
+#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="30.ДЕТСКИЕ 👶",Nickelodeon HD
 http://dmitry-tv.ddns.net/hls/CH_NICKELODEONHD.m3u8
 
-#EXTINF:-1  group-title="30.ДЕТСКИЕ 👶"  tvg-id="nicktoons" ,Nicktoons FD
+#EXTINF:-1 tvg-id="nicktoons" group-title="30.ДЕТСКИЕ 👶",Nicktoons FD
 http://dmitry-tv.ddns.net/hls/CH_NICKTOONS.m3u8
 
-#EXTINF:-1  group-title="30.ДЕТСКИЕ 👶"  tvg-id="nick-jr"   audio-track="rus",Nick Jr.
+#EXTINF:-1 tvg-id="nick-jr" group-title="30.ДЕТСКИЕ 👶",Nick Jr.
 http://77.245.98.18:8000/play/a00a
 
-#EXTINF:-1  group-title="30.ДЕТСКИЕ 👶"  tvg-id="nick-jr" ,Nick Jr
+#EXTINF:-1 tvg-id="nick-jr" group-title="30.ДЕТСКИЕ 👶",Nick Jr
 http://dmitry-tv.ddns.net/hls/CH_NICKJR.m3u8
 
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="30.ДЕТСКИЕ 👶",CTC kids
@@ -7479,4 +7479,7 @@ https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/218/799.mp4
 
 #EXTINF:-1 group-title="Прощание 🎬",Ян Арлазоров
 https://tvccdn4.cdnvideo.ru/_cdn_auth/mp4_cdnvideo/high-wide/139/248.mp4
+
+#EXTINF:-1 group-title="30.ДЕТСКИЕ 👶",Discovery kids
+https://trs1.aynaott.com/discoverykids/index.m3u8
 
