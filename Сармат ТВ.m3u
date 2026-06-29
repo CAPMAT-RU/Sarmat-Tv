@@ -2226,13 +2226,16 @@ https://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
 
 #EXTINF:-1  group-title="30.ДЕТСКИЕ 👶"  tvg-id="nickelodeon-ru" ,Nickelodeon
 http://dmitry-tv.ddns.net/hls/CH_NICKELODEON.m3u8
+
 #EXTINF:-1  group-title="30.ДЕТСКИЕ 👶"  tvg-id="nickelodeon-ru" ,Nickelodeon HD
 http://dmitry-tv.ddns.net/hls/CH_NICKELODEONHD.m3u8
 
 #EXTINF:-1  group-title="30.ДЕТСКИЕ 👶"  tvg-id="nicktoons" ,Nicktoons FD
 http://dmitry-tv.ddns.net/hls/CH_NICKTOONS.m3u8
+
 #EXTINF:-1  group-title="30.ДЕТСКИЕ 👶"  tvg-id="nick-jr"   audio-track="rus",Nick Jr.
 http://77.245.98.18:8000/play/a00a
+
 #EXTINF:-1  group-title="30.ДЕТСКИЕ 👶"  tvg-id="nick-jr" ,Nick Jr
 http://dmitry-tv.ddns.net/hls/CH_NICKJR.m3u8
 
@@ -3397,7 +3400,7 @@ https://cloudtv.azotosolutions.com:9553/radiocity/radiocity/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/32mmGvB.png" group-title="44.𝕄𝕦𝕤𝕚𝕔 🇪🇺",Radio Contactᴴᴰ
 https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="44.𝕄𝕦𝕤𝕚𝕔 🇪🇺",Radio Diffusione Europea
+#EXTINF:-1 tvg-id="simpleTVFakeEpgId" group-title="44.𝕄𝕦𝕤??𝕔 🇪🇺",Radio Diffusione Europea
 https://rst2.saiuzwebnetwork.it:8081/prosol/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.ibb.co/F4ZHkcF3/image-2025-07-09-T152629-923.png" group-title="44.𝕄𝕦𝕤𝕚𝕔 🇪🇺",Radio GOLD SD
@@ -4903,7 +4906,7 @@ https://tinyurl.com/TvZaTak05/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kultura" group-title="𝕋𝕧ℤ𝕒𝕋𝕒𝕜 📼",Россия К
 https://tinyurl.com/TvZaTak05/1048/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ryzhy" group-title="𝕋𝕧ℤ𝕒𝕋𝕒𝕜 ??",Рыжий
+#EXTINF:-1 tvg-id="ryzhy" group-title="𝕋𝕧ℤ𝕒𝕋𝕒?? 📼",Рыжий
 https://tinyurl.com/TvZaTak05/1407/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sarafan" group-title="𝕋𝕧ℤ𝕒𝕋𝕒𝕜 📼",Сарафан
