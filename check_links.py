@@ -26,14 +26,10 @@ jobs:
       - name: Run script
         run: python check_links.py
 
-      - name: Commit and push changes if any
+      - name: Commit and push
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'github-actionsbot'
+          git config --global user.email 'github-actionsbot@users.noreply.github.com'
           git add .
-          if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Update links"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          git commit -m "Update links" --allow-empty || true
+          git push
